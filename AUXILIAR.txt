@@ -1,0 +1,64 @@
+================================================================================
+                        PAM-I-MANHÃ
+                  DOCUMENTO DE AUXÍLIO - REACT NATIVE
+================================================================================
+
+ÍNDICE
+------
+1. react_exemplo - Projeto com Exemplo
+2. react_vazio - Projeto em Branco
+
+
+================================================================================
+1. REACT_EXEMPLO - Projeto com Exemplo
+================================================================================
+
+Este projeto já possui exemplo de código implementado.
+
+Passos para criar e iniciar:
+
+   1. Criar o projeto:
+      npx create-expo-app nome_do_app
+
+   2. Acessar a pasta do projeto:
+      cd nome_do_app
+
+   3. Iniciar o projeto:
+      npm start
+
+
+================================================================================
+2. REACT_VAZIO - Projeto em Branco
+================================================================================
+
+Este projeto inicia com um template em branco.
+
+Passos para criar e configurar:
+
+   1. Criar o projeto com template em branco:
+      npx create-expo-app nome_do_app --template blank
+
+   2. Acessar a pasta do projeto:
+      cd nome_do_app
+
+   3. Instalar dependências necessárias:
+      npx expo install react-dom react-native-web @expo/metro-runtime
+
+   4. Para rodar na web (opção 1):
+      npm run web
+
+   5. Para rodar na web (opção 2):
+      npx expo start --web
+
+
+================================================================================
+RECURSOS ÚTEIS
+================================================================================
+
+Documentação de estilos React Native:
+https://reactnative.dev/docs/style/
+
+
+================================================================================
+FIM DO DOCUMENTO
+================================================================================
